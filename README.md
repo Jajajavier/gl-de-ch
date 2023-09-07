@@ -16,6 +16,8 @@ Globant Data Engineering Coding Challenge
 
 ## SQL Queries
 
+The below queries can be found as services as part of the API under reporting section. 
+
 Number of employees hired for each job and department in 2021 divided by quarter. The
 table must be ordered alphabetically by department and job.
 
